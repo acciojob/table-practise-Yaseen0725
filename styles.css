@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+h3{
+	font-size : 1.2rem;
+	font-weight : bold;
+	margin-bottom : 5px
+}
+
+table,th,td{
+	border : 1px solid black;
+	text-align : center;
+	padding : 8px;
+}
+table{
+	background-color : yellow;
+	border-collapse : collapse;
+	width : 50%;
+}
