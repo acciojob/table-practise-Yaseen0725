@@ -5,7 +5,7 @@ h3{
 	margin-bottom : 5px
 }
 
-table,th,td{
+table,tr,th,td{
 	border : 1px solid black;
 	text-align : center;
 	padding : 8px;
